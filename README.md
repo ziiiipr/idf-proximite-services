@@ -1,8 +1,6 @@
 # Indice de proximité aux services — Île-de-France
 
-<span style="background-color:#009cad;"> >**Si vous lisez ceci** je postule à une formation dans votre établissement. Merci de l'intérêt que vous portez à ma candidature. Toutes les informations du projet sont disponibles ci-dessous. Les cartes sont disponibles dans la section qui suit. </span>
-
-> **Projet d'entraînement** — Analyse de l'accessibilité aux équipements et services publics dans les 1 266 communes d'Île-de-France, à partir de données open source.
+**Projet d'entraînement** — Analyse de l'accessibilité aux équipements et services publics dans les 1 266 communes d'Île-de-France, à partir de données open source.
 
 ---
 
