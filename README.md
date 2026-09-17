@@ -8,8 +8,8 @@
 
 | Carte | Description | Lien |
 |---|---|---|
-| **Indice IPS** | Score composite d'accessibilité par commune, 11 dimensions. | [Ouvrir](https://b00tb00t.github.io/idf-proximite-services/outputs/idf_ips_map.html) |
-| **Équipements** | Localisation des 89 208 équipements, chargement à la demande. | [Ouvrir](https://b00tb00t.github.io/idf-proximite-services/outputs/idf_facilities_map.html) |
+| **Indice IPS** | Score composite d'accessibilité par commune, 11 dimensions. | [Ouvrir](https://ziiiipr.github.io/idf-proximite-services/outputs/idf_ips_map.html) |
+| **Équipements** | Localisation des 89 208 équipements, chargement à la demande. | [Ouvrir](https://ziiiipr.github.io/idf-proximite-services/outputs/idf_facilities_map.html) |
 
 ### Comment utiliser la carte IPS
 - **Sélectionnez une catégorie** via le menu déroulant en haut à gauche pour afficher le score d'une dimension spécifique (santé, transport, éducation...)
@@ -29,8 +29,8 @@ Pour mieux comprendre ce projet et répondre à vos possibles questions, deux pa
 
 | Page | Description | Lien |
 |---|---|---|
-| **Méthodologie** | Stack technique, phases de développement. | [Ouvrir](https://b00tb00t.github.io/idf-proximite-services/METHODOLOGIE.html) |
-| **Analyse** | Définition de l'IPS, limites et biais connus, observations simples. | [Ouvrir](https://b00tb00t.github.io/idf-proximite-services/ANALYSE.html) |
+| **Méthodologie** | Stack technique, phases de développement. | [Ouvrir](https://ziiiipr.github.io/idf-proximite-services/METHODOLOGIE.html) |
+| **Analyse** | Définition de l'IPS, limites et biais connus, observations simples. | [Ouvrir](https://ziiiipr.github.io/idf-proximite-services/ANALYSE.html) |
 
 ---
 
