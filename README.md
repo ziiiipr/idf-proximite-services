@@ -8,7 +8,7 @@
 
 | Carte | Description | Lien |
 |---|---|---|
-| **Indice IPS** | Score composite d'accessibilité par commune, 11 dimensions. | [Ouvrir](https://ziiiipr.github.io/idf-proximite-services/outputs/idf_ips_map.html) |
+| **Indice IPS** | Score composite d'accessibilité par commune, 11 dimensions. | [Ouvrir](https://ziiiipr.github.io/idf-proximite-services/outputs/idf_eai_map.html) |
 | **Équipements** | Localisation des 89 208 équipements, chargement à la demande. | [Ouvrir](https://ziiiipr.github.io/idf-proximite-services/outputs/idf_facilities_map.html) |
 
 ### Comment utiliser la carte IPS
